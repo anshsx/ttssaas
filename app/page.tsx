@@ -132,7 +132,7 @@ export default function TextToSpeech() {
   return (
     <div className="flex flex-col h-screen bg-background">
       <header className="border-b bg-background p-4 flex items-center justify-between">
-        <h1 className="text-xl font-semibold">Era Speak</h1>
+        <h1 className="text-xl font-semibold">Yuvoke AI</h1>
         <Button variant="default" className="rounded-full" onClick={handleNewChat}>
           New Chat
         </Button>
