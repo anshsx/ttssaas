@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Sphere',
-  description: 'A real-time chat application',
+  title: 'Yuvoke AI',
+  description: 'Text to human like voice creation',
   other: {
     monetag: '066174eb07b4edb7426579e51e625abc'
   }
@@ -23,7 +23,7 @@ export default function RootLayout({
         <meta name="monetag" content="066174eb07b4edb7426579e51e625abc" />
         <script
           dangerouslySetInnerHTML={{
-            __html: "(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('vemtoutcheeg.com',8747863,document.createElement('script'))",
+            __html: "(function(d,z,s){s.src='https://'+d+'/400/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('vemtoutcheeg.com',8816765,document.createElement('script'))",
           }}
         />
       </head>
